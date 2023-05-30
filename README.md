@@ -83,14 +83,14 @@
 <h3>My latest posts</h3>
 <ul>
   <li>
-    <a href="https://blog.balmanrawat.com.np/aws-secrets-manger-in-kubernetes"><b><img src="" width="" alt="new" />AWS Secrets Manger in Kubernetes</b></a><br/><i>Sync your AWS Secret From Secrets Manger as a Kubernetes Service Account</i>
+    <a href="https://blog.balmanrawat.com.np/aws-secrets-manger-in-kubernetes"><b><img src="" width="" />AWS Secrets Manger in Kubernetes</b></a><br/><i>Sync your AWS Secret From Secrets Manger as a Kubernetes Service Account</i>
   </li>
   <li>
-    <a href="https://blog.balmanrawat.com.np/helm-cheatsheet"><b><img src="" width="" alt="new" />Helm Cheat Sheets</b>
+    <a href="https://blog.balmanrawat.com.np/helm-cheatsheet"><b><img src="" width="" />Helm Cheat Sheets</b>
     </a><br/><i>My Collection of basic HELM commands</i>
   </li>
   <li>
-    <a href="https://blog.balmanrawat.com.np/managing-cloudformation-stacks-at-scale-with-cfn-compose"><b><img src="" alt="new" />Managing CloudFormation at Scale</b>
+    <a href="https://blog.balmanrawat.com.np/managing-cloudformation-stacks-at-scale-with-cfn-compose"><b><img src=""  />Managing CloudFormation at Scale</b>
     </a><br/><i>Compose your CFN stacks using cfn-compose</i>
   </li>
   <li>
