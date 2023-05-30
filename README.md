@@ -83,17 +83,21 @@
 <h3>My latest posts</h3>
 <ul>
   <li>
-    <a href="https://blog.balmanrawat.com.np/aws-secrets-manger-in-kubernetes"><b><img src="https://img.shields.io/badge/aws-aws-orange?logo=amazonaws&style=flat-square&logoColor=white" width="20" alt="new" />AWS Secrets Manger in Kubernetes</b></a><br/><i>Sync your AWS Secret From Secrets Manger as a Kubernetes Service Account</i>
+    <a href="https://blog.balmanrawat.com.np/aws-secrets-manger-in-kubernetes"><b><img src="" width="" alt="new" />AWS Secrets Manger in Kubernetes</b></a><br/><i>Sync your AWS Secret From Secrets Manger as a Kubernetes Service Account</i>
   </li>
   <li>
-    <a href="https://blog.balmanrawat.com.np/helm-cheatsheet"><b><img src="https://img.shields.io/badge/Helm-Helm-blue?logo=helm&logoColor=white&style=flat-square" width="20" alt="new" />Helm Cheat Sheets</b>
+    <a href="https://blog.balmanrawat.com.np/helm-cheatsheet"><b><img src="" width="" alt="new" />Helm Cheat Sheets</b>
     </a><br/><i>My Collection of basic HELM commands</i>
   </li>
-  <li><a href="https://blog.balmanrawat.com.np/managing-cloudformation-stacks-at-scale-with-cfn-compose"><b><img src="https://img.shields.io/badge/aws-aws-orange?logo=amazonaws&style=flat-square&logoColor=white" width="40" height="20" alt="new" />Managing CloudFormation at Scale</b></a><br/><i>Compose your CFN stacks using cfn-compose</i>
+  <li>
+    <a href="https://blog.balmanrawat.com.np/managing-cloudformation-stacks-at-scale-with-cfn-compose"><b><img src="" alt="new" />Managing CloudFormation at Scale</b>
+    </a><br/><i>Compose your CFN stacks using cfn-compose</i>
   </li>
-  <li><a href="https://blog.balmanrawat.com.np/cloudformation-in-a-nutshell"><b>CloudFormation in a Nutshell</b></a><br/><i>From beginner to advance in CloudFormation</i>
+  <li>
+    <a href="https://blog.balmanrawat.com.np/cloudformation-in-a-nutshell"><b>CloudFormation in a Nutshell</b></a><br/><i>From beginner to advance in CloudFormation</i>
   </li>
-  <li><a href="https://blog.balmanrawat.com.np/terraform-s3-backend"><b>Setup Terraform Backend</b></a><br/><i>Setting up Terraform backend using AWS S3</i>
+  <li>
+    <a href="https://blog.balmanrawat.com.np/terraform-s3-backend"><b>Setup Terraform Backend</b></a><br/><i>Setting up Terraform backend using AWS S3</i>
   </li>
 </ul>
 
