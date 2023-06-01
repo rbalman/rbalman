@@ -13,6 +13,8 @@
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-Grafana-red?logo=grafana&logoColor=white&style=flat-square" />
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-Prometheus-orange?logo=prometheus&logoColor=white&style=flat-square" />
   <img alt="Terraform" src="https://img.shields.io/badge/terraform-terraform-blue?logo=terraform&logoColor=white&style=flat-square" />
+  <img alt="Serverless" src="https://img.shields.io/badge/serverless-framework-red?logo=serverless&logoColor=white&style=flat-square" />
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-Ansible-brightgreen?logo=ansible&logoColor=white&style=flat-square" />
   <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-EC2-yellow?logo=amazonec2&style=flat-square&logoColor=white" />
   <img alt="Amazon EKS" src="https://img.shields.io/badge/EKS-Amazon%20EKS-orange?logo=amazonec2&style=flat-square&logoColor=white" />
   <img alt="Amazon ECS" src="https://img.shields.io/badge/ECS-ECS-important?logo=amazonecs&style=flat-square&logoColor=white" />
@@ -21,7 +23,6 @@
   <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/DynamoDB-DynamoDB-blue?logo=amazondynamodb&style=flat-square&logoColor=white" />
   <img alt="Amazon CloudWatch" src="https://img.shields.io/badge/CloudWatch-AWS%20CloudWatch-blue?logo=amazoncloudwatch&style=flat-square&logoColor=white" />
   <img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-RDS-lightgrey?logo=amazonrds&style=flat-square&logoColor=white" />
-  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-Ansible-brightgreen?logo=ansible&logoColor=white&style=flat-square" />
   <img alt="Nginx" src="https://img.shields.io/badge/nginx-nginx-brightgreen?logo=nginx&logoColor=white&style=flat-square" />
    <img alt="Vagrant" src="https://img.shields.io/badge/vagrant-vagrant-blue?logo=vagrant&logoColor=white&style=flat-square" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
