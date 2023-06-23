@@ -84,6 +84,12 @@
 <h3>My latest posts</h3>
 <ul>
   <li>
+    <a target="_blank" href="https://blog.balmanrawat.com.np/setting-up-elasticsearch-with-operator-pattern"><b>Setting up elasticsearch with Operator Pattern</b></a><br/><i>ElasticSearch H/A setup using ECK operator in EKS</i>
+  </li>
+  <li>
+    <a target="_blank" href="https://blog.balmanrawat.com.np/ec2-autoscaling-with-custom-metrics"><b>EC2 Autoscaling with Custom Metrics</b></a><br/><i>Autoscaling EC2 Instances based on message backlog in SQS Queue</i>
+  </li>
+  <li>
     <a target="_blank" href="https://blog.balmanrawat.com.np/aws-secrets-manger-in-kubernetes"><b>AWS Secrets Manger in Kubernetes</b></a><br/><i>Sync your AWS Secret From Secrets Manger as a Kubernetes Service Account</i>
   </li>
   <li>
