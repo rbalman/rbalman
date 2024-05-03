@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Balman, DevOps Engineer from <img src="https://github.com/rbalman/rbalman/assets/8892649/49d7ff36-5bb8-4ba4-80b8-9e4569909f4c" width="13"/> <b>Bhaktapur, Nepal</b>.
+<p>Welcome to my page! </br> I'm Balman, DevOps Engineer based in <img src="https://github.com/rbalman/rbalman/assets/8892649/49d7ff36-5bb8-4ba4-80b8-9e4569909f4c" width="13"/> <b>Nepal</b>.
 
 <h3>Things I work with</h3>
 <p>
