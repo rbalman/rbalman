@@ -64,6 +64,13 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/badge/pull%20requests-2%20open-orange?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/rbalman/ship"><b>Bare minimal shell based container runtime built for fun</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/stars-3-blue?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/badge/forks-2-blue?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/badge/issues-1%20open-orange?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/badge/pull%20requests-1%20open-orange?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/rbalman/cfn-dump"><b>Dump the CloudFormation stacks dependency as a JSON file</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/badge/stars-8-blue?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/badge/forks-5-blue?style=flat-square&labelColor=343b41"/></td>
@@ -80,6 +87,18 @@
   </tbody>
 </table>
 
+<h3>Community Involvements</h3>
+<ul>
+  <li>
+    <a target="_blank" href="https://www.meetup.com/devops-kathmandu/events/300306044/"><b>34th DevOps Meetup Kathmandu</b></a><br/><i>Demistify containers in the fundamental sense by creating the simplest container by hand. The talk included series of commands and demonstrations showcasing the linux features: chroot, namespaces, cgroup, linux security modules. <a target="_blank" href="https://slides.com/rbalman/container-internals"><b>Slides.</b></a></i>
+  </li>
+  <li>
+    <a target="_blank" href="https://www.linkedin.com/posts/rbalman_awsugnepal-awsusergroup-meetup-activity-7062267764308082689-ayV2?utm_source=share&utm_medium=member_desktop"><b>2nd AWS User Group Nepal Meetup</b></a><br/><i>Introduction to IAC concepts(CloudFormation centered), its limitations and best way to design it for microservices, parallelize the creation and destruction of the immutable infrastructures. <a target="_blank" href="https://slides.com/rbalman/managing-cloudformation-at-scale"><b>Slides.</b></a></i>
+  </li>
+  <li>
+    <a target="_blank" href="https://github.com/captableinc/captable"><b>Open-Source Captable</b></a><br/><i>Providing DevOps support for developer experience.
+  </li>
+</ul>
 
 <h3>My latest posts</h3>
 <ul>
