@@ -44,6 +44,8 @@
 
 <a target='_blank' href='https://www.credly.com/badges/ded0b0c1-69a9-4509-8b86-5d7265187543/public_url'><img src="https://github.com/rbalman/cfn-compose/assets/8892649/7d070fde-8137-4516-9308-25e05ae3744e" height="250" width="250"></a> &nbsp; 
 
+<a target='_blank' href='https://www.credly.com/badges/9780a1f4-f0a8-4c4c-a7ce-982c9f6e05b1/public_url'><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="250" width="250"></a> &nbsp; 
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
